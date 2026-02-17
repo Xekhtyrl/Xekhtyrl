@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Back End Developer<br>Student at 42 Belgium<br>Interested in Machine Learning/AI and Software Development
+Junior Software Developer<br>Student at 42 Belgium<br>Interested in Machine Learning/AI and Software Development
 
 
 ## 🌐 Socials:
